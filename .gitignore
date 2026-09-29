@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+college_club.db
+storage/
+.env
+node_modules/
+dist/
+.pytest_cache/
