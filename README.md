@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Campus Clubhouse
 
 A college club platform for event planning, approval, registrations, attendance, On-Duty (OD) requests, certificates, badges, and club communication.
@@ -92,3 +93,6 @@ pytest -q
 ```
 
 Use only demo data in a submission. Keep `.env` private; distribute `.env.example` with placeholder values instead. Google Sign-In still needs an OAuth client setup and is listed as incomplete in the coverage guide.
+=======
+# college-club-platform
+>>>>>>> 44b9441ed090839d8bd7739acda1129523dbf1d4
